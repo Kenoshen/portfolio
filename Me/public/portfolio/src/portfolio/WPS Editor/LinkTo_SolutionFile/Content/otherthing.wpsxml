@@ -1,0 +1,56 @@
+WPS Editor File
+<particlesystem>
+<property,name=Name,type=string>particle system 0</property>
+<property,name=MaxParticles,type=int>1000</property>
+<property,name=ParticleLife,type=float>1000</property>
+<property,name=TextureFilePath,type=string>WPS_Content/SPRITES/fire</property>
+<property,name=Visability,type=string>ALPHA</property>
+<property,name=TotalFrames,type=int>100</property>
+<property,name=Loop,type=bool>false</property>
+<domains>
+<domain,type=PointDomain>
+<property,name=Name,type=string>Point0</property>
+<property,name=Point,type=Vector3>{X:0 Y:0 Z:0}</property>
+</domain>
+<domain,type=SphereDomain>
+<property,name=Name,type=string>Sphere1</property>
+<property,name=Center,type=Vector3>{X:0 Y:0 Z:0}</property>
+<property,name=Radius,type=float>0.01</property>
+</domain>
+<domain,type=PointDomain>
+<property,name=Name,type=string>Point2</property>
+<property,name=Point,type=Vector3>{X:10 Y:0 Z:0}</property>
+</domain>
+</domains>
+<permanentactions>
+<action,type=SourceAction>
+<property,name=Name,type=string>Source0</property>
+<property,name=PositionDomain,type=string>Point0</property>
+<property,name=VelocityDomain,type=string>Sphere1</property>
+<property,name=Size,type=float>1</property>
+<property,name=Particle_Rate,type=float>1</property>
+<property,name=TimeStep,type=float>1</property>
+</action>
+<action,type=MoveAction>
+<property,name=Name,type=string>Move1</property>
+<property,name=TimeStep,type=float>1</property>
+</action>
+<action,type=AgeAction>
+<property,name=Name,type=string>Age2</property>
+<property,name=AgeStep,type=float>1</property>
+</action>
+<action,type=GravityAction>
+<property,name=Name,type=string>Gravity4</property>
+<property,name=Gravity,type=Vector3>{X:0 Y:0.0001 Z:0}</property>
+<property,name=TimeStep,type=float>1</property>
+</action>
+<action,type=GravityAction>
+<property,name=Name,type=string>Gravity5</property>
+<property,name=Gravity,type=Vector3>{X:0.1 Y:0 Z:0}</property>
+<property,name=TimeStep,type=float>0.001</property>
+</action>
+</permanentactions>
+<temporaryactions>
+</temporaryactions>
+</particlesystem>
+End

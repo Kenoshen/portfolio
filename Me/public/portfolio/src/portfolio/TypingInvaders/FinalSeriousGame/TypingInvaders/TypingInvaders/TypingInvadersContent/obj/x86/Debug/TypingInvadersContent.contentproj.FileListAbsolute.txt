@@ -1,0 +1,5 @@
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvadersContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvadersContent\obj\x86\Debug\Audio\SoundForTypingInvaders.xml
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvadersContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvadersContent\obj\x86\Debug\Audio\SoundForTypingInvaders.xml
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvadersContent\obj\x86\Debug\TypingInvadersContent.contentprojResolveAssemblyReference.cache

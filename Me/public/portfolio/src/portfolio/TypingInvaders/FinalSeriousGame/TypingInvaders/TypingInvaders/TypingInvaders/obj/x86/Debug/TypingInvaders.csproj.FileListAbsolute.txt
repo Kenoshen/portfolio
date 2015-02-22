@@ -1,0 +1,339 @@
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderButton.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderEnd.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderMiddle.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\TypingInvaders.exe
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\TypingInvaders.pdb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\TypingInvaders.exe
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\TypingInvaders.pdb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderBackground.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\tutorialFont.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\pauseFont.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\optionsFont.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\menuFont.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\highscoreFont.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\gameoverFont.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page0.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page1.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page2.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\background.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Logo\logo.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnC.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnH.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnN.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Logo\background.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\title2.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\background.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\background.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\alarm_2.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\claps.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\computer.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\explosion_short.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\hit_electronic.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\missile.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\synth_beep_3.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\SoundForTypingInvaders.xgs
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienShip.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\gameFont.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\tranceHouseLoop.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienHands.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\leftHighlight.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\rightHighlight.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\generalFont.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Game\gameFont.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\panelBackground.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\background.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Levelselect\background.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page9.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page7.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page8.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page5.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page3.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page4.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page6.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page19.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page10.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page11.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page12.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page13.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page14.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page15.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page16.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page17.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page18.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienExplosion.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\greenLaser.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\redLaser.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\displayBox.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\healthBarGreen.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\healthBarRed.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\keyboard.xnb
+C:\Users\Michael\Desktop\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\keyboardHighlight.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\tutorialFont.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\pauseFont.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\optionsFont.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\menuFont.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\generalFont.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\gameoverFont.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\gameFont.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Game\gameFont.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\highscoreFont.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page0.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page1.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page2.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\background.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Logo\logo.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderButton.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderEnd.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderMiddle.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnC.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnH.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnN.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\panelBackground.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Logo\background.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\title2.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\background.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderBackground.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienShip.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienHands.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\leftHighlight.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\rightHighlight.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\background.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\background.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Levelselect\background.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page9.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page7.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page8.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page5.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page3.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page4.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page6.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page19.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page10.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page11.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page12.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page13.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page14.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page15.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page16.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page17.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page18.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienExplosion.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\greenLaser.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\redLaser.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\displayBox.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\healthBarGreen.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\healthBarRed.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\keyboard.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\keyboardHighlight.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\alarm_2.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\claps.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\computer.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\explosion_short.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\hit_electronic.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\missile.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\synth_beep_3.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\tranceHouseLoop.xnb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\SoundForTypingInvaders.xgs
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\TypingInvaders.exe
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\TypingInvaders.pdb
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\TypingInvaders.exe
+C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\TypingInvaders.pdb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\tutorialFont.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\pauseFont.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\optionsFont.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\menuFont.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\generalFont.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\gameoverFont.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\gameFont.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Game\gameFont.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\highscoreFont.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page0.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page1.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page2.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\background.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Logo\logo.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderButton.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderEnd.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderMiddle.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnC.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnH.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnN.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\panelBackground.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Logo\background.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\title2.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\background.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderBackground.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienShip.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienHands.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\leftHighlight.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\rightHighlight.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\background.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\background.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Levelselect\background.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page9.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page7.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page8.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page5.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page3.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page4.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page6.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page19.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page10.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page11.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page12.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page13.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page14.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page15.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page16.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page17.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page18.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienExplosion.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\greenLaser.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\redLaser.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\displayBox.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\healthBarGreen.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\healthBarRed.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\keyboard.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\keyboardHighlight.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\alarm_2.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\claps.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\computer.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\explosion_short.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\hit_electronic.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\missile.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\synth_beep_3.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\tranceHouseLoop.xnb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\SoundForTypingInvaders.xgs
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\TypingInvaders.exe
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\TypingInvaders.pdb
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\TypingInvaders.csprojResolveAssemblyReference.cache
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\TypingInvaders.exe
+D:\My Websites\Portfolio\portfolio\src\TypingInvaders\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\obj\x86\Debug\TypingInvaders.pdb

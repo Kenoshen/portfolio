@@ -1,0 +1,5 @@
+C:\Users\Michael\Desktop\GETM\Winger\Winger\bin\x86\Debug\Winger.dll
+C:\Users\Michael\Desktop\GETM\Winger\Winger\bin\x86\Debug\Winger.pdb
+C:\Users\Michael\Desktop\GETM\Winger\Winger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Desktop\GETM\Winger\Winger\obj\x86\Debug\Winger.dll
+C:\Users\Michael\Desktop\GETM\Winger\Winger\obj\x86\Debug\Winger.pdb
