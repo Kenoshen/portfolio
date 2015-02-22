@@ -1,0 +1,167 @@
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPSTestProject.exe
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPSTestProject.pdb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\WPSTestProject.exe
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\WPSTestProject.pdb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.dll
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.pdb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\BillboardEffect.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\fire.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\smoke.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\water.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticle.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\GravityToVelocityFloatingPoint.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\VelocityToPositionFloatingPoint.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\fbDeprofiler.dll
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\fire.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\smoke.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\water.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\BillboardEffect.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticle.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\GravityToVelocityFloatingPoint.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\VelocityToPositionFloatingPoint.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPSTestProject.exe
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPSTestProject.pdb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\fbDeprofiler.dll
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.dll
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.pdb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\WPSTestProject.exe
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\WPSTestProject.pdb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawQuad.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawPerspectiveQuad.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawQuad.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawPerspectiveQuad.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticleCollection.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Source.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Move.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Age.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Fade.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Gravity.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitPoint.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\floor.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\fire.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\smoke.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\water.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\floor.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\BillboardEffect.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticle.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\GravityToVelocityFloatingPoint.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\VelocityToPositionFloatingPoint.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawQuad.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawPerspectiveQuad.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticleCollection.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Move.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Source.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Age.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Fade.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Gravity.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitPoint.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPSTestProject.exe
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPSTestProject.pdb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\fbDeprofiler.dll
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.dll
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.pdb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\WPSTestProject.exe
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\WPSTestProject.pdb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitLine.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitAxis.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\PlaneBounce.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\DiscBounce.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\OTHER\DebugFont.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitLine.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitAxis.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\PlaneBounce.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\DiscBounce.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\OTHER\DebugFont.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\ZeroVel.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\KillAll.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\SquareBounce.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\floor.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticleCollection.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Move.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Source.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Age.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Fade.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Gravity.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitPoint.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitLine.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitAxis.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\PlaneBounce.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\DiscBounce.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\ZeroVel.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\KillAll.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\SquareBounce.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\OTHER\DebugFont.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitRing.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitRing.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Scale.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Scale.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\fire.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\smoke.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\water.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\floor.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\BillboardEffect.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticle.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\GravityToVelocityFloatingPoint.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\VelocityToPositionFloatingPoint.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawQuad.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawPerspectiveQuad.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticleCollection.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Move.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Source.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Age.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Fade.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Gravity.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitPoint.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitLine.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitAxis.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\PlaneBounce.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\DiscBounce.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\ZeroVel.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\KillAll.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\SquareBounce.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitRing.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Scale.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\OTHER\DebugFont.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPSTestProject.exe
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPSTestProject.pdb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\fbDeprofiler.dll
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.dll
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.pdb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\WPSTestProject.exe
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\obj\x86\Debug\WPSTestProject.pdb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\explosion.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\fire.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\smoke.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\explosion.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticleCollectionCPU.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\fire.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\smoke.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\explosion.xnb
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticleCollectionCPU.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\fire.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\smoke.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\explosion.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\ZeroVel.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\KillAll.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\SquareBounce.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitRing.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Scale.xnb
+C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticleCollectionCPU.xnb
+C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.xml
+C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.xml
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\fire.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\smoke.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\explosion.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticleCollectionCPU.xnb
+C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\WPS.xml

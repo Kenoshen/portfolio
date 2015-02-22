@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{94970FD3-8CC0-4912-948B-AC9569BC523E}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Winger</RootNamespace>
+    <AssemblyName>Winger</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>HiDef</XnaProfile>
+    <XnaCrossPlatformGroupID>6c13c0b2-6e79-49fe-8690-12ebc9260147</XnaCrossPlatformGroupID>
+    <XnaOutputType>Library</XnaOutputType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Xact, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Video, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Avatar, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Storage, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Net">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Camera\ArcBallCamera.cs" />
+    <Compile Include="Camera\Camera.cs" />
+    <Compile Include="Camera\ChaseCamera.cs" />
+    <Compile Include="Camera\FreeCamera.cs" />
+    <Compile Include="Camera\TargetCamera.cs" />
+    <Compile Include="Draw\Draw3DLine.cs" />
+    <Compile Include="Draw\DrawLineRectangle.cs" />
+    <Compile Include="Draw\CSpriteBatch.cs" />
+    <Compile Include="Draw\DrawCircle.cs" />
+    <Compile Include="Draw\DrawLine.cs" />
+    <Compile Include="Draw\DrawRectangle.cs" />
+    <Compile Include="Draw\DrawText.cs" />
+    <Compile Include="Draw\FlatBar.cs" />
+    <Compile Include="Input\Event\InputEvent.cs" />
+    <Compile Include="Input\Event\InputEventHandler.cs" />
+    <Compile Include="Input\Event\InputEventType.cs" />
+    <Compile Include="Input\Impl\GamePadInput.cs" />
+    <Compile Include="Input\Impl\MouseKeyboardInput.cs" />
+    <Compile Include="Input\UserInput.cs" />
+    <Compile Include="Network\Encryption\EncryptionUtils.cs" />
+    <Compile Include="Network\Encryption\RSA\PrivateKey.cs" />
+    <Compile Include="Network\Encryption\RSA\PublicKey.cs" />
+    <Compile Include="Network\Encryption\RSA\RSAFactory.cs" />
+    <Compile Include="Network\LAN\TCPSender.cs" />
+    <Compile Include="Network\LAN\HandleTCPMessage.cs" />
+    <Compile Include="Network\LAN\TCPReceiver.cs" />
+    <Compile Include="Network\UDP\ConnectedClient.cs" />
+    <Compile Include="Network\UDP\Messages\ConnectMessage.cs" />
+    <Compile Include="Network\UDP\Messages\DisconnectMessage.cs" />
+    <Compile Include="Network\UDP\Messages\DiscoverMessage.cs" />
+    <Compile Include="Network\UDP\Messages\KeepAliveMessage.cs" />
+    <Compile Include="Network\UDP\Messages\Message.cs" />
+    <Compile Include="Network\UDP\Messages\MessageFactory.cs" />
+    <Compile Include="Network\UDP\Messages\UpdateMessage.cs" />
+    <Compile Include="Network\UDP\SimulatedClients.cs" />
+    <Compile Include="Network\UDP\UDPClient.cs" />
+    <Compile Include="Network\UDP\UDPServer.cs" />
+    <Compile Include="Network\Utils\IPUtils.cs" />
+    <Compile Include="SimpleMath\KinematicMath.cs" />
+    <Compile Include="SimpleMath\NumberMath.cs" />
+    <Compile Include="SimpleMath\Tween.cs" />
+    <Compile Include="SimpleMath\TweenType.cs" />
+    <Compile Include="SimpleMath\VectorMath.cs" />
+    <Compile Include="Network\LAN\HandleUDPMessage.cs" />
+    <Compile Include="Network\LAN\UDPReceiver.cs" />
+    <Compile Include="Network\LAN\UDPSender.cs" />
+    <Compile Include="Network\Utils\Byteable.cs" />
+    <Compile Include="Network\Utils\ByteStream.cs" />
+    <Compile Include="Network\Utils\ByteUtils.cs" />
+    <Compile Include="Network\Utils\DatagramPacket.cs" />
+    <Compile Include="Network\Utils\DatagramSocket.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Input\Raw\CGamePad.cs" />
+    <Compile Include="Input\Raw\CKeyboard.cs" />
+    <Compile Include="Input\Raw\CMouse.cs" />
+    <Compile Include="UserInterface\ElementImpl\ScrollElement.cs" />
+    <Compile Include="UserInterface\ElementImpl\TextBoxElement.cs" />
+    <Compile Include="UserInterface\ElementImpl\GridElement.cs" />
+    <Compile Include="UserInterface\TransitionImpl\FallUpTransition.cs" />
+    <Compile Include="UserInterface\TransitionImpl\FallDownTransition.cs" />
+    <Compile Include="UserInterface\TransitionImpl\FallLeftTransition.cs" />
+    <Compile Include="UserInterface\TransitionImpl\FallRightTransition.cs" />
+    <Compile Include="UserInterface\Utils\TypeUtils.cs" />
+    <Compile Include="UserInterface\Utils\UIEventType.cs" />
+    <Compile Include="UserInterface\Utils\Alignment.cs" />
+    <Compile Include="UserInterface\ElementImpl\DefaultElement.cs" />
+    <Compile Include="UserInterface\Utils\WindowHelper.cs" />
+    <Compile Include="Utils\FontManager.cs" />
+    <Compile Include="UserInterface\Element.cs" />
+    <Compile Include="UserInterface\ElementFactory.cs" />
+    <Compile Include="UserInterface\Page.cs" />
+    <Compile Include="UserInterface\PageManager.cs" />
+    <Compile Include="Utils\Log.cs" />
+    <Compile Include="Utils\SaveLoadUtils.cs" />
+    <Compile Include="Utils\Texture2DCollection.cs" />
+    <Compile Include="Utils\TextureManager.cs" />
+    <Compile Include="UserInterface\Transition.cs" />
+    <Compile Include="UserInterface\TransitionImpl\FadeTransition.cs" />
+    <Compile Include="UserInterface\TransitionImpl\DefaultTransition.cs" />
+    <Compile Include="UserInterface\TransitionManager.cs" />
+    <Compile Include="Utils\ColorUtils.cs" />
+    <Compile Include="Utils\ContentUtils.cs" />
+    <Compile Include="Utils\CRectangle.cs" />
+    <Compile Include="Utils\EnumUtils.cs" />
+    <Compile Include="Utils\FileUtils.cs" />
+    <Compile Include="Utils\GraphicsUtils.cs" />
+    <Compile Include="Utils\JSON.cs" />
+    <Compile Include="Utils\ListUtils.cs" />
+    <Compile Include="Utils\Notifier.cs" />
+    <Compile Include="Utils\ParseUtils.cs" />
+    <Compile Include="Utils\SubscriptionRecord.cs" />
+    <Compile Include="Utils\ThreadUtils.cs" />
+    <Compile Include="Utils\Timestamp.cs" />
+    <Compile Include="Utils\Tree.cs" />
+    <Compile Include="Utils\Tup.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

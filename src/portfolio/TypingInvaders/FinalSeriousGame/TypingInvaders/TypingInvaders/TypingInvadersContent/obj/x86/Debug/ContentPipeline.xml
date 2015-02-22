@@ -1,0 +1,982 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Screens\Tutorial\tutorialFont.spritefont</Source>
+      <Name>Screens\Tutorial\tutorialFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\tutorialFont.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Pause\pauseFont.spritefont</Source>
+      <Name>Screens\Pause\pauseFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\pauseFont.xnb</Output>
+      <Time>2011-04-28T12:30:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Options\optionsFont.spritefont</Source>
+      <Name>Screens\Options\optionsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\optionsFont.xnb</Output>
+      <Time>2011-04-28T12:31:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\menuFont.spritefont</Source>
+      <Name>Screens\Menu\menuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\menuFont.xnb</Output>
+      <Time>2011-05-06T00:19:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>General\generalFont.spritefont</Source>
+      <Name>General\generalFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\generalFont.xnb</Output>
+      <Time>2011-04-28T12:31:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Gameover\gameoverFont.spritefont</Source>
+      <Name>Screens\Gameover\gameoverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\gameoverFont.xnb</Output>
+      <Time>2011-05-04T12:44:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\gameFont.spritefont</Source>
+      <Name>GamePlayContent\gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\gameFont.xnb</Output>
+      <Time>2011-04-29T20:16:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Game\gameFont.spritefont</Source>
+      <Name>Screens\Game\gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Game\gameFont.xnb</Output>
+      <Time>2011-05-03T21:34:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Highscore\highscoreFont.spritefont</Source>
+      <Name>Screens\Highscore\highscoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\highscoreFont.xnb</Output>
+      <Time>2011-05-04T14:10:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\backBttnC.png</Source>
+      <Name>Screens\Tutorial\Buttons\backBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnC.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\backBttnH.png</Source>
+      <Name>Screens\Tutorial\Buttons\backBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnH.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\backBttnN.png</Source>
+      <Name>Screens\Tutorial\Buttons\backBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\backBttnN.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\menuBttnC.png</Source>
+      <Name>Screens\Tutorial\Buttons\menuBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnC.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\menuBttnH.png</Source>
+      <Name>Screens\Tutorial\Buttons\menuBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnH.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\menuBttnN.png</Source>
+      <Name>Screens\Tutorial\Buttons\menuBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\menuBttnN.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\nextBttnC.png</Source>
+      <Name>Screens\Tutorial\Buttons\nextBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnC.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\nextBttnH.png</Source>
+      <Name>Screens\Tutorial\Buttons\nextBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnH.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\nextBttnN.png</Source>
+      <Name>Screens\Tutorial\Buttons\nextBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\nextBttnN.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\playBttnC.png</Source>
+      <Name>Screens\Tutorial\Buttons\playBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnC.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\playBttnH.png</Source>
+      <Name>Screens\Tutorial\Buttons\playBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnH.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Buttons\playBttnN.png</Source>
+      <Name>Screens\Tutorial\Buttons\playBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Buttons\playBttnN.xnb</Output>
+      <Time>2011-04-28T12:30:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page0.png</Source>
+      <Name>Screens\Tutorial\Pages\page0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page0.xnb</Output>
+      <Time>2011-04-28T22:01:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page1.png</Source>
+      <Name>Screens\Tutorial\Pages\page1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page1.xnb</Output>
+      <Time>2011-04-28T22:02:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page2.png</Source>
+      <Name>Screens\Tutorial\Pages\page2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page2.xnb</Output>
+      <Time>2011-04-28T22:02:56-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Pause\Buttons\backBttnC.png</Source>
+      <Name>Screens\Pause\Buttons\backBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnC.xnb</Output>
+      <Time>2011-04-28T12:30:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Pause\Buttons\backBttnH.png</Source>
+      <Name>Screens\Pause\Buttons\backBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnH.xnb</Output>
+      <Time>2011-04-28T12:30:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Pause\Buttons\backBttnN.png</Source>
+      <Name>Screens\Pause\Buttons\backBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Pause\Buttons\backBttnN.xnb</Output>
+      <Time>2011-04-28T12:30:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Options\Buttons\backBttnC.png</Source>
+      <Name>Screens\Options\Buttons\backBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnC.xnb</Output>
+      <Time>2011-04-28T12:31:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Options\Buttons\backBttnH.png</Source>
+      <Name>Screens\Options\Buttons\backBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnH.xnb</Output>
+      <Time>2011-04-28T12:31:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Options\Buttons\backBttnN.png</Source>
+      <Name>Screens\Options\Buttons\backBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\Buttons\backBttnN.xnb</Output>
+      <Time>2011-04-28T12:31:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\background.png</Source>
+      <Name>Screens\Menu\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\background.xnb</Output>
+      <Time>2011-04-28T21:40:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Highscores\highscoresBttnC.png</Source>
+      <Name>Screens\Menu\Buttons\Highscores\highscoresBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnC.xnb</Output>
+      <Time>2011-04-28T12:31:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Highscores\highscoresBttnH.png</Source>
+      <Name>Screens\Menu\Buttons\Highscores\highscoresBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnH.xnb</Output>
+      <Time>2011-04-28T12:31:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Highscores\highscoresBttnN.png</Source>
+      <Name>Screens\Menu\Buttons\Highscores\highscoresBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Highscores\highscoresBttnN.xnb</Output>
+      <Time>2011-04-28T12:31:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Options\optionsBttnC.png</Source>
+      <Name>Screens\Menu\Buttons\Options\optionsBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnC.xnb</Output>
+      <Time>2011-04-28T12:31:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Options\optionsBttnH.png</Source>
+      <Name>Screens\Menu\Buttons\Options\optionsBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnH.xnb</Output>
+      <Time>2011-04-28T12:31:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Options\optionsBttnN.png</Source>
+      <Name>Screens\Menu\Buttons\Options\optionsBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Options\optionsBttnN.xnb</Output>
+      <Time>2011-04-28T12:31:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Play\playBttnC.png</Source>
+      <Name>Screens\Menu\Buttons\Play\playBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnC.xnb</Output>
+      <Time>2011-04-28T12:31:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Play\playBttnH.png</Source>
+      <Name>Screens\Menu\Buttons\Play\playBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnH.xnb</Output>
+      <Time>2011-04-28T12:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Play\playBttnN.png</Source>
+      <Name>Screens\Menu\Buttons\Play\playBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Play\playBttnN.xnb</Output>
+      <Time>2011-04-28T12:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Quit\quitBttnC.png</Source>
+      <Name>Screens\Menu\Buttons\Quit\quitBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnC.xnb</Output>
+      <Time>2011-04-28T12:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Quit\quitBttnH.png</Source>
+      <Name>Screens\Menu\Buttons\Quit\quitBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnH.xnb</Output>
+      <Time>2011-04-28T12:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Quit\quitBttnN.png</Source>
+      <Name>Screens\Menu\Buttons\Quit\quitBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Quit\quitBttnN.xnb</Output>
+      <Time>2011-04-28T12:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Tutorial\tutorialBttnC.png</Source>
+      <Name>Screens\Menu\Buttons\Tutorial\tutorialBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnC.xnb</Output>
+      <Time>2011-04-28T12:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Tutorial\tutorialBttnH.png</Source>
+      <Name>Screens\Menu\Buttons\Tutorial\tutorialBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnH.xnb</Output>
+      <Time>2011-04-28T12:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\Buttons\Tutorial\tutorialBttnN.png</Source>
+      <Name>Screens\Menu\Buttons\Tutorial\tutorialBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\Buttons\Tutorial\tutorialBttnN.xnb</Output>
+      <Time>2011-04-28T12:31:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Logo\logo.png</Source>
+      <Name>Screens\Logo\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Logo\logo.xnb</Output>
+      <Time>2011-04-28T13:12:38-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Highscore\Buttons\backBttnC.png</Source>
+      <Name>Screens\Highscore\Buttons\backBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnC.xnb</Output>
+      <Time>2011-04-28T12:31:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Highscore\Buttons\backBttnH.png</Source>
+      <Name>Screens\Highscore\Buttons\backBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnH.xnb</Output>
+      <Time>2011-04-28T12:31:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Highscore\Buttons\backBttnN.png</Source>
+      <Name>Screens\Highscore\Buttons\backBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\Buttons\backBttnN.xnb</Output>
+      <Time>2011-04-28T12:31:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>General\Buttons\genericBttnC.png</Source>
+      <Name>General\Buttons\genericBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnC.xnb</Output>
+      <Time>2011-04-28T21:41:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>General\Buttons\genericBttnH.png</Source>
+      <Name>General\Buttons\genericBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnH.xnb</Output>
+      <Time>2011-04-28T21:42:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>General\Buttons\genericBttnN.png</Source>
+      <Name>General\Buttons\genericBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\Buttons\genericBttnN.xnb</Output>
+      <Time>2011-04-28T21:43:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>General\UI\sliderButton.png</Source>
+      <Name>General\UI\sliderButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderButton.xnb</Output>
+      <Time>2011-04-28T12:31:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>General\UI\sliderEnd.png</Source>
+      <Name>General\UI\sliderEnd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderEnd.xnb</Output>
+      <Time>2011-04-28T12:31:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>General\UI\sliderMiddle.png</Source>
+      <Name>General\UI\sliderMiddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderMiddle.xnb</Output>
+      <Time>2011-04-28T12:31:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Gameover\Buttons\backBttnC.png</Source>
+      <Name>Screens\Gameover\Buttons\backBttnC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnC.xnb</Output>
+      <Time>2011-04-28T12:31:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Gameover\Buttons\backBttnH.png</Source>
+      <Name>Screens\Gameover\Buttons\backBttnH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnH.xnb</Output>
+      <Time>2011-04-28T12:31:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Gameover\Buttons\backBttnN.png</Source>
+      <Name>Screens\Gameover\Buttons\backBttnN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\Buttons\backBttnN.xnb</Output>
+      <Time>2011-04-28T12:31:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\panelBackground.png</Source>
+      <Name>GamePlayContent\panelBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\panelBackground.xnb</Output>
+      <Time>2011-05-03T22:31:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Logo\background.png</Source>
+      <Name>Screens\Logo\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Logo\background.xnb</Output>
+      <Time>2011-04-28T17:20:52-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Menu\title2.png</Source>
+      <Name>Screens\Menu\title2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Menu\title2.xnb</Output>
+      <Time>2011-04-28T18:54:00-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Options\background.png</Source>
+      <Name>Screens\Options\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Options\background.xnb</Output>
+      <Time>2011-04-28T21:56:48-06:00</Time>
+    </Item>
+    <Item>
+      <Source>General\UI\sliderBackground.png</Source>
+      <Name>General\UI\sliderBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\General\UI\sliderBackground.xnb</Output>
+      <Time>2011-04-29T11:35:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\alienShip.png</Source>
+      <Name>GamePlayContent\alienShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienShip.xnb</Output>
+      <Time>2011-04-29T15:44:02-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\alienHands.png</Source>
+      <Name>GamePlayContent\alienHands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienHands.xnb</Output>
+      <Time>2011-05-03T12:55:32-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\leftHighlight.png</Source>
+      <Name>GamePlayContent\leftHighlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\leftHighlight.xnb</Output>
+      <Time>2011-05-03T13:22:54-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\rightHighlight.png</Source>
+      <Name>GamePlayContent\rightHighlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\rightHighlight.xnb</Output>
+      <Time>2011-05-03T13:24:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Highscore\background.png</Source>
+      <Name>Screens\Highscore\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Highscore\background.xnb</Output>
+      <Time>2011-05-04T12:42:04-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Gameover\background.png</Source>
+      <Name>Screens\Gameover\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Gameover\background.xnb</Output>
+      <Time>2011-05-04T14:29:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Levelselect\background.png</Source>
+      <Name>Screens\Levelselect\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Levelselect\background.xnb</Output>
+      <Time>2011-05-04T16:52:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page9.png</Source>
+      <Name>Screens\Tutorial\Pages\page9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page9.xnb</Output>
+      <Time>2011-05-04T17:31:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page7.png</Source>
+      <Name>Screens\Tutorial\Pages\page7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page7.xnb</Output>
+      <Time>2011-05-04T17:31:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page8.png</Source>
+      <Name>Screens\Tutorial\Pages\page8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page8.xnb</Output>
+      <Time>2011-05-04T17:31:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page5.png</Source>
+      <Name>Screens\Tutorial\Pages\page5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page5.xnb</Output>
+      <Time>2011-05-04T17:31:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page3.png</Source>
+      <Name>Screens\Tutorial\Pages\page3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page3.xnb</Output>
+      <Time>2011-05-04T17:31:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page4.png</Source>
+      <Name>Screens\Tutorial\Pages\page4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page4.xnb</Output>
+      <Time>2011-05-04T17:31:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page6.png</Source>
+      <Name>Screens\Tutorial\Pages\page6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page6.xnb</Output>
+      <Time>2011-05-04T17:31:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page19.png</Source>
+      <Name>Screens\Tutorial\Pages\page19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page19.xnb</Output>
+      <Time>2011-05-04T18:33:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page10.png</Source>
+      <Name>Screens\Tutorial\Pages\page10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page10.xnb</Output>
+      <Time>2011-05-04T18:33:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page11.png</Source>
+      <Name>Screens\Tutorial\Pages\page11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page11.xnb</Output>
+      <Time>2011-05-04T18:33:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page12.png</Source>
+      <Name>Screens\Tutorial\Pages\page12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page12.xnb</Output>
+      <Time>2011-05-04T18:33:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page13.png</Source>
+      <Name>Screens\Tutorial\Pages\page13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page13.xnb</Output>
+      <Time>2011-05-04T18:33:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page14.png</Source>
+      <Name>Screens\Tutorial\Pages\page14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page14.xnb</Output>
+      <Time>2011-05-04T18:33:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page15.png</Source>
+      <Name>Screens\Tutorial\Pages\page15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page15.xnb</Output>
+      <Time>2011-05-04T18:33:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page16.png</Source>
+      <Name>Screens\Tutorial\Pages\page16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page16.xnb</Output>
+      <Time>2011-05-04T18:33:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page17.png</Source>
+      <Name>Screens\Tutorial\Pages\page17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page17.xnb</Output>
+      <Time>2011-05-04T18:33:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\Pages\page18.png</Source>
+      <Name>Screens\Tutorial\Pages\page18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\Pages\page18.xnb</Output>
+      <Time>2011-05-04T18:33:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\alienExplosion.png</Source>
+      <Name>GamePlayContent\alienExplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\alienExplosion.xnb</Output>
+      <Time>2011-05-05T13:38:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\greenLaser.png</Source>
+      <Name>GamePlayContent\greenLaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\greenLaser.xnb</Output>
+      <Time>2011-05-06T00:14:48-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\redLaser.png</Source>
+      <Name>GamePlayContent\redLaser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\redLaser.xnb</Output>
+      <Time>2011-05-05T23:43:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\displayBox.png</Source>
+      <Name>GamePlayContent\displayBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\displayBox.xnb</Output>
+      <Time>2011-05-06T12:49:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\healthBarGreen.png</Source>
+      <Name>GamePlayContent\healthBarGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\healthBarGreen.xnb</Output>
+      <Time>2011-05-06T13:47:50-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GamePlayContent\healthBarRed.png</Source>
+      <Name>GamePlayContent\healthBarRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\GamePlayContent\healthBarRed.xnb</Output>
+      <Time>2011-05-06T12:44:40-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\keyboard.png</Source>
+      <Name>Screens\Tutorial\keyboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\keyboard.xnb</Output>
+      <Time>2011-05-06T15:19:44-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Tutorial\keyboardHighlight.png</Source>
+      <Name>Screens\Tutorial\keyboardHighlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Screens\Tutorial\keyboardHighlight.xnb</Output>
+      <Time>2011-05-06T15:21:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\alarm_2.wav</Source>
+      <Name>Audio\alarm_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\alarm_2.xnb</Output>
+      <Time>2001-05-31T02:17:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\claps.wav</Source>
+      <Name>Audio\claps</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\claps.xnb</Output>
+      <Time>1995-07-11T20:54:30-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\computer.wav</Source>
+      <Name>Audio\computer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\computer.xnb</Output>
+      <Time>2003-08-02T15:47:18-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion_short.wav</Source>
+      <Name>Audio\explosion_short</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\explosion_short.xnb</Output>
+      <Time>2003-08-02T15:08:06-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\hit_electronic.wav</Source>
+      <Name>Audio\hit_electronic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\hit_electronic.xnb</Output>
+      <Time>1995-07-11T21:01:34-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\missile.wav</Source>
+      <Name>Audio\missile</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\missile.xnb</Output>
+      <Time>2003-08-02T14:50:36-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\synth_beep_3.wav</Source>
+      <Name>Audio\synth_beep_3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\synth_beep_3.xnb</Output>
+      <Time>2003-08-01T16:56:16-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\tranceHouseLoop.wav</Source>
+      <Name>Audio\tranceHouseLoop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\Audio\tranceHouseLoop.xnb</Output>
+      <Time>2011-04-30T12:27:22-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvadersContent\</RootDirectory>
+      <LoggerRootDirectory>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvadersContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\MYSTUFF\Backups\Backup_5_12_11\Spring 2011\Serious Games\FinalSeriousGame\TypingInvaders\TypingInvaders\TypingInvaders\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-10-03T22:13:36.6739064-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

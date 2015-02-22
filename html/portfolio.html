@@ -1,0 +1,222 @@
+<div>
+    <script>
+        //Initialization code:
+        $(document).ready(function() {
+            // on document load
+            $("#the_ender_slideshow").imageSlider({
+                //initialize slider
+                'thumbs' : ["img/portfolio/ParticleGame/_menu.png", "img/portfolio/ParticleGame/_middle3.png", "img/portfolio/ParticleGame/_middle2.png", "img/portfolio/ParticleGame/_middle.png", "img/portfolio/ParticleGame/_middle4.png", "img/portfolio/ParticleGame/_end2.png", "img/portfolio/ParticleGame/_end.png"],
+                // // file names of images within slider. Default path should
+                // be changed inside thumbslide.js (near bottom)
+                'auto_scroll' : true,
+                'auto_scroll_speed' : 10000,
+                'video_path' : "http://youtu.be/YAuHiVl05B8",
+                'stop_after' : 0, //stop after x cycles? Set to 0 to disable.
+                'canvas_width' : "100%",
+                'canvas_height' : 300 // <-- No comma after last option
+            });
+
+            $("#wps_slideshow").imageSlider({
+                //initialize slider
+                'thumbs' : ["img/portfolio/WPS/fountain.png", "img/portfolio/WPS/fireandice.png", "img/portfolio/WPS/explosion.png", "img/portfolio/WPS/corkscrew.png", "img/portfolio/WPS/ball.png", "img/portfolio/WPS/cube.png", "img/portfolio/WPS/editor.png", "img/portfolio/WPS/editor2.png"],
+                // // file names of images within slider. Default path should
+                // be changed inside thumbslide.js (near bottom)
+                'auto_scroll' : true,
+                'auto_scroll_speed' : 10000,
+                'video_path' : "http://youtu.be/8FcHWzkHEjQ",
+                'stop_after' : 0, //stop after x cycles? Set to 0 to disable.
+                'canvas_width' : "100%",
+                'canvas_height' : 300 // <-- No comma after last option
+            });
+
+            $("#typing_invaders_slideshow").imageSlider({
+                //initialize slider
+                'thumbs' : ["img/portfolio/TypingInvaders/menu.png", "img/portfolio/TypingInvaders/options.png", "img/portfolio/TypingInvaders/levelselect.png", "img/portfolio/TypingInvaders/tutorial.png", "img/portfolio/TypingInvaders/gameplay.png", "img/portfolio/TypingInvaders/gameplay2.png", "img/portfolio/TypingInvaders/end.png", "img/portfolio/TypingInvaders/scores.png"],
+                // // file names of images within slider. Default path should
+                // be changed inside thumbslide.js (near bottom)
+                'auto_scroll' : true,
+                'auto_scroll_speed' : 10000,
+                'video_path' : "http://youtu.be/Xi4AtGvAvLg",
+                'stop_after' : 0, //stop after x cycles? Set to 0 to disable.
+                'canvas_width' : "100%",
+                'canvas_height' : 300 // <-- No comma after last option
+            });
+
+            $("#cookin_lists_slideshow").imageSlider({
+                //initialize slider
+                'thumbs' : ["img/portfolio/CookinLists/checklist.png", "img/portfolio/CookinLists/checkitems.png", "img/portfolio/CookinLists/groceryitems.png", "img/portfolio/CookinLists/menulist.png", "img/portfolio/CookinLists/menuadd.png", "img/portfolio/CookinLists/recipelist.png", "img/portfolio/CookinLists/recipeedit.png", "img/portfolio/CookinLists/recipepages.png", "img/portfolio/CookinLists/timer.png"],
+                // // file names of images within slider. Default path should
+                // be changed inside thumbslide.js (near bottom)
+                'auto_scroll' : true,
+                'auto_scroll_speed' : 10000,
+                'stop_after' : 0, //stop after x cycles? Set to 0 to disable.
+                'canvas_width' : "100%",
+                'canvas_height' : 300 // <-- No comma after last option
+            });
+        });
+    </script>
+    <!-- Thumbslider -->
+    <div class="project">
+        <img src="img/portfolio/WingerFramework/wingerframework.jpg" width="60%" height="60%" style="margin-left: 20%; margin-right: 20%;"/>
+        <p class="header_S">
+            Winger Framework
+        </p>
+        <p class="body_S">
+            <b>May 2013 - Present</b>
+        </p>
+        <ul class="body_S">
+            <li>Dependency Injection model in JSON for UI package</li>
+            <li>Abstracted game input for gamepad and keyboard/mouse</li>
+            <li>Functioning threaded server-client network manager</li>
+            <li>Currently being used in local indie game development group</li>
+            <li>Developed in C# XNA</li>
+        </ul>
+        <p class="body_M">
+            During the past summer, I have been meeting with some of my peers on a regular basis to develop games.
+            I started developing this framework to help out with some of the lower level issues that I knew we would run into in the process.
+            I was able to create an entire UI framework that uses <a href="http://en.wikipedia.org/wiki/Dependency_injection" target="_blank">dependency injection</a>
+            and JSON to let us create UI layouts and transitions extremely quickly and modularly.  I also created the base of our networking framework.
+            It was especially difficult to test but I was able to create a simple "game" where the four of us could join through LAN and move blocks around
+            the screen.  If you would like to use this framework, or would like to just look at the source, you can <a href="src/portfolio/WingerFramework.zip" target="_blank">download it here</a>.
+        </p>
+    </div>
+    <hr>
+    <div class="project">
+        <div id="the_ender_slideshow"></div>
+        <p class="header_S">
+            The Ender
+        </p>
+        <p class="body_S">
+            <b>May 2012</b>
+        </p>
+        <ul class="body_S">
+            <li>Mobile Prototype</li>
+            <li>One Button Mechanic</li>
+            <li>Integration with <a href="" ng-click="goToAnchor('wps_slideshow')">my 3D particle system</a></li>
+            <li>Integration with a physics engine (&copy; <a href="http://farseerphysics.codeplex.com/" target="_blank">Farseer Physics Engine</a>)</li>
+            <li>Developed in C# XNA</li>
+        </ul>
+        <p class="body_M">
+            After playing <a href="http://www.adamatomic.com/canabalt/" target="_blank">Canabalt</a> and really liking it, I thought
+            it would be fun to make my own running game.  I liked the idea of the world falling apart around you so I decided to build
+            the game so that everything would be destroyable.  I used <a href="" ng-click="goToAnchor('wps_slideshow')">my particle system</a> to create all of
+            the objects in the game so that I could blast them apart using different shaped gravity objects.  The goal of the game is to
+            stay ahead of the destruction by landing on the leading edge of the platforms you are running on.  The idea being that the longer
+            you have to run on the platform the more speed you build up.  The pictures of the game don't quite do it justice as I think the
+            feeling of being chased is lost in a still shot.  Check out the
+            <a href="http://youtu.be/YAuHiVl05B8"  target="_blank">video of me playing the game</a>, or if you'd like to play it yourself you
+            can <a href="src/portfolio/ParticleGame.zip" target="_blank">download the source code here</a>.
+        </p>
+    </div>
+    <hr>
+    <div class="project">
+        <div id="cookin_lists_slideshow"></div>
+        <p class="header_S">
+            Cookin' Lists
+        </p>
+        <p class="body_S">
+            <b>May 2012</b>
+        </p>
+        <ul class="body_S">
+            <li>Published to iOS app store</li>
+            <li>Developed using Xcode</li>
+        </ul>
+        <p class="body_M">
+            I wanted to learn more about developing for the iPhone, so I decided I would make something that I would
+            be able to use on a daily basis.  The thought was to have a todo list, grocery list, and a recipee book all in one app.
+            During development and testing, my friends and family suggested adding the menu functionality to allow people to plan
+            out what their meals would look like in advance as well as a timer to help during cooking.  The recipes and the menus
+            can be exported to grocery lists based on the ingredients that they are made of which lets you enter a recipe's ingredients
+            once, and then be able to export them to any number of lists.  I released it to the app store and it did not make me a
+            millionaire, but the benefit to me was learning some of the ins and outs of app development.  The app is no longer on the
+            app store, however, because my membership expired.
+        </p>
+    </div>
+    <hr>
+    <div class="project">
+        <div id="wps_slideshow"></div>
+        <p class="header_S">
+            WPS (Winger Particle System)
+        </p>
+        <p class="body_S">
+            <b>January 2012</b>
+        </p>
+        <ul class="body_S">
+            <li>Component-based</li>
+            <li>GPU accelerated computation</li>
+            <li>Easily implemented and extended</li>
+            <li>Dynamic particle system winforms editor</li>
+            <li>Developed in C# XNA</li>
+        </ul>
+        <p class="body_M">
+            I started the WPS project in my last semester of my Senior year in college for a advanced graphics class.
+            My interest in particle systems had evolved from a basic 2D particle system I made for a class project some time at the
+            begining of my college career.  It then became a full 2D particle system that could display tens of thousands of particles.
+            My natural progression was to take it to 3D as well as boosting performance by using the GPU.  By the end of the semester I
+            had created a component model GPU accelerated 3D particle system as well as a visual particle effect editor using winforms.
+            I was also able to help a few of my classmates integrate my library into their projects befor the end of the semester.
+            Naturally the first one was someone using my particle system to create a fart cloud behind their character when they pressed
+            a specific button, classic.  If you would like to see a few of my example particle effects you can
+            <a href="http://youtu.be/8FcHWzkHEjQ"  target="_blank">check out the video</a>.  And if you would like to use it for yourself, or just view
+            the source code you can <a href="src/portfolio/WPS Editor.zip" target="_blank">download it here</a>.  Also, here is
+            my 2D particle system that I ported to javascript just for some fun.
+        </p>
+        <div style="padding: 0px;margin: 0px;">
+
+            <canvas id="window" style="background-color: black; cursor: pointer; border-style: solid; border-width: thin; border-color: grey;"> Your browser is not good </canvas>
+
+            <script src="http://documentcloud.github.io/underscore/underscore-min.js" type="text/javascript"></script>
+            <script src="public/js/particles/stats.js" type="text/javascript"></script>
+            <!-- my java script -->
+            <script src="public/js/particles/vector.js"></script>
+            <script src="public/js/particles/particle.js"></script>
+            <script src="public/js/particles/display.js"></script>
+            <script src="public/js/particles/particlesystem.js"></script>
+            <script src="public/js/particles/app.js"></script>
+
+            <dl>
+                <dt><h3>Controls:</h3></dt>
+                <dd> [Enter] to save a picture of the canavs, scroll down to view </dd>
+                <dd> [Left mouse] to attract particles </dd>
+                <dd> [Space] to set velocities to 0 </dd>
+                <dd> [r] to refresh particles </dd>
+                <dd> [s] to show tails </dd>
+                <dd> [NumPad5] to attract particles to center </dd>
+                <dd> [NumPad4,6,8,2] to attract particles to left,right,top,bottom respectively </dd>
+            </dl>
+            <div id="saved" style="background-color: black;"></div>
+        </div>
+    </div>
+    <hr>
+    <div class="project">
+        <div id="typing_invaders_slideshow"></div>
+        <p class="header_S">
+            Typing Invaders
+        </p>
+        <p class="body_S">
+            <b>August 2011</b>
+        </p>
+        <ul class="body_S">
+            <li>Full menu system</li>
+            <li>Start to finish gameplay</li>
+            <li>Highscore table</li>
+            <li>Integrated music and sound effects (NOTE: I do not own any of the sound files in the game)</li>
+            <li>Developed in C# XNA</li>
+        </ul>
+        <p class="body_M">
+            This was a game that I created for a Serious Games class in college.  The goal was to teach
+            kids how to type rythmically instead of just typing fast.  I created a page management system for the UI
+            and created some UI elements like a slider and a button.  The game included music and sound effects (not my own audio)
+            which could be turned down in an options menu as well as a full tutorial that would walk kids through the
+            basic steps of typing.  The game tracked how rythmically the player typed and at the end would give a score
+            based on rythm, accuracy, and total words and would record the score in a persistant highscore table.  You can
+            take a look at the <a href="http://youtu.be/Xi4AtGvAvLg"  target="_blank">video of the gameplay</a>, or download it yourself
+            and <a href="src/portfolio/TypingInvaders.zip" target="_blank">give it a try</a>.
+        </p>
+    </div>
+</div>
+<footer class="blue_color">
+    <p>
+        &copy; 2013 Michael Wingfield, all rights reserved
+    </p>
+</footer>

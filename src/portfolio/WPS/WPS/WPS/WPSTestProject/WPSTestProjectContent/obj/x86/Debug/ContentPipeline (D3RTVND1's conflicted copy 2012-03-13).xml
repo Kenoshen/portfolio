@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>WPS_CONTENT\SPRITES\fire.png</Source>
+      <Name>WPS_CONTENT\SPRITES\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\fire.xnb</Output>
+      <Time>2012-03-11T03:05:04.84375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\SPRITES\smoke.png</Source>
+      <Name>WPS_CONTENT\SPRITES\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\smoke.xnb</Output>
+      <Time>2012-03-11T03:02:45.125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\SPRITES\water.png</Source>
+      <Name>WPS_CONTENT\SPRITES\water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\water.xnb</Output>
+      <Time>2012-02-13T21:43:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>floor.png</Source>
+      <Name>floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\floor.xnb</Output>
+      <Time>2012-02-17T03:32:05-07:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2012-03-11T01:40:12.328125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.png</Source>
+      <Name>fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\fire.xnb</Output>
+      <Time>2012-03-11T01:40:23.109375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\smoke.xnb</Output>
+      <Time>2012-03-11T01:40:29.078125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\SPRITES\explosion.png</Source>
+      <Name>WPS_CONTENT\SPRITES\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\SPRITES\explosion.xnb</Output>
+      <Time>2012-03-11T03:15:14.484375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\BillboardEffect.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\BillboardEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\BillboardEffect.xnb</Output>
+      <Time>2012-03-11T03:31:19.234375-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\DrawParticle.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\DrawParticle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticle.xnb</Output>
+      <Time>2012-02-14T00:13:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\GravityToVelocityFloatingPoint.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\GravityToVelocityFloatingPoint</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\GravityToVelocityFloatingPoint.xnb</Output>
+      <Time>2012-02-13T23:06:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\VelocityToPositionFloatingPoint.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\VelocityToPositionFloatingPoint</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\VelocityToPositionFloatingPoint.xnb</Output>
+      <Time>2012-02-13T23:02:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\DrawQuad.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\DrawQuad</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawQuad.xnb</Output>
+      <Time>2012-02-14T14:20:33-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\DrawPerspectiveQuad.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\DrawPerspectiveQuad</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawPerspectiveQuad.xnb</Output>
+      <Time>2012-02-14T14:51:19-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\DrawParticleCollection.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\DrawParticleCollection</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticleCollection.xnb</Output>
+      <Time>2012-03-11T03:10:40.921875-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\Move.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\Move</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Move.xnb</Output>
+      <Time>2012-02-17T01:59:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\Source.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\Source</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Source.xnb</Output>
+      <Time>2012-02-17T00:49:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\Age.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\Age</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Age.xnb</Output>
+      <Time>2012-02-17T02:17:03-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\Fade.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\Fade</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Fade.xnb</Output>
+      <Time>2012-02-17T02:31:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\Gravity.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\Gravity</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Gravity.xnb</Output>
+      <Time>2012-02-17T02:38:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\OrbitPoint.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\OrbitPoint</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitPoint.xnb</Output>
+      <Time>2012-02-17T03:09:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\OrbitLine.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\OrbitLine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitLine.xnb</Output>
+      <Time>2012-02-17T13:07:29-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\OrbitAxis.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\OrbitAxis</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitAxis.xnb</Output>
+      <Time>2012-02-17T12:53:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\PlaneBounce.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\PlaneBounce</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\PlaneBounce.xnb</Output>
+      <Time>2012-02-17T17:14:57-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\DiscBounce.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\DiscBounce</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\DiscBounce.xnb</Output>
+      <Time>2012-02-22T11:09:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\ZeroVel.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\ZeroVel</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\ZeroVel.xnb</Output>
+      <Time>2012-02-22T00:58:46-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\KillAll.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\KillAll</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\KillAll.xnb</Output>
+      <Time>2012-02-22T00:59:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\SquareBounce.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\SquareBounce</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\SquareBounce.xnb</Output>
+      <Time>2012-02-22T15:11:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\OrbitRing.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\OrbitRing</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\OrbitRing.xnb</Output>
+      <Time>2012-03-09T20:56:35.21875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\ACTIONS\Scale.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\ACTIONS\Scale</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\ACTIONS\Scale.xnb</Output>
+      <Time>2012-03-01T17:40:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\EFFECTS\DrawParticleCollectionCPU.fx</Source>
+      <Name>WPS_CONTENT\EFFECTS\DrawParticleCollectionCPU</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\EFFECTS\DrawParticleCollectionCPU.xnb</Output>
+      <Time>2012-03-11T15:09:41.53125-06:00</Time>
+    </Item>
+    <Item>
+      <Source>WPS_CONTENT\OTHER\DebugFont.spritefont</Source>
+      <Name>WPS_CONTENT\OTHER\DebugFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\WPS_CONTENT\OTHER\DebugFont.xnb</Output>
+      <Time>2012-02-17T19:21:45-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-06T00:07:16.625-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
