@@ -1,0 +1,87 @@
+.slider_container{
+	margin:0 auto;
+	background-color: black;
+	overflow:hidden;
+	width: 100%;
+}
+.main_image_container{
+	float:left;
+	overflow:hidden;
+	position:relative;
+	width: 70%;
+}
+.main_image_scroller{
+	float:left;
+	position:relative;
+	width:100%;
+	height:100%;
+}
+.thumbs_list_container{
+	float:left;
+	height:100%;
+	overflow-y: scroll;
+	margin-left:5px;
+	overflow-x:hidden;
+	width:150px;
+}
+.thumb{
+	padding:6px;
+	padding-left:0px;
+	padding-right:1px;
+	margin:3px;
+	opacity: 0.50;
+	-moz-opacity:0.50;
+	width:114px;
+	overflow:hidden;
+	height:62px;
+	padding-left:12px;
+	cursor:pointer;
+}
+
+.thumb:hover, .thumb_selected{
+	opacity: 1;
+	-moz-opacity:1;
+}
+
+.thumb_selected{
+	background:url('selected.gif') no-repeat;
+}
+.play
+{
+	display: none;
+	background: url('play.png') center center no-repeat;
+	margin: -80px 10px 0 0;
+	height: 80px;
+	position: relative;
+	z-index: 100;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+}
+
+.thum a:hover span.play
+{
+	display: block;
+}
+
+.main_image{
+	float:left;
+	clear:left;
+	width:100%;
+	height:100%;
+   	text-align:center;
+}
+.main_image img{
+	vertical-align: middle;
+}
+.description_container{
+	position:absolute;
+	color:#FFFFFF;
+	width:100%;
+	background-color:#000000;
+	bottom:0;
+	filter:alpha(opacity=80);
+	opacity: 0.80;
+	-moz-opacity:0.80;
+	font-weight:bold;
+	padding:5px;
+}
