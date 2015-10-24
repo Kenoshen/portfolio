@@ -1,5 +1,0 @@
-C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS_Editor\WPS_Editor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS_Editor\WPS_Editor\WPS_Editor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS_Editor\WPS_Editor\WPS_Editor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS_Editor\WPS_Editor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS_Editor\WPS_Editor\Content\obj\x86\Debug\ResolveAssemblyReference.cache

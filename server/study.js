@@ -4,10 +4,10 @@ module.exports = function (){
 
 	function now() {
 		var d = new Date();
-		return (((d.getUTCMonth()+1) < 10)?"0":"") + (d.getUTCMonth()+1) +"/" + 
-		((d.getUTCDate() < 10)?"0":"") + d.getUTCDate() +"/"+ d.getUTCFullYear() + " " + 
-		((d.getUTCHours() < 10)?"0":"") + d.getUTCHours() +":"+ 
-		((d.getUTCMinutes() < 10)?"0":"") + d.getUTCMinutes() +":"+ 
+		return (((d.getUTCMonth()+1) < 10)?"0":"") + (d.getUTCMonth()+1) +"/" +
+		((d.getUTCDate() < 10)?"0":"") + d.getUTCDate() +"/"+ d.getUTCFullYear() + " " +
+		((d.getUTCHours() < 10)?"0":"") + d.getUTCHours() +":"+
+		((d.getUTCMinutes() < 10)?"0":"") + d.getUTCMinutes() +":"+
 		((d.getUTCSeconds() < 10)?"0":"") + d.getUTCSeconds() + " GMT";
 	}
 

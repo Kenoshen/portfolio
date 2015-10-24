@@ -1,4 +1,0 @@
-C:\Users\Michael\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Brittany\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\mwingfield\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Administrator\My Documents\Dropbox\Spring2012\Computer Graphics\Particles\WPS\WPS\WPSTestProject\WPSTestProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache

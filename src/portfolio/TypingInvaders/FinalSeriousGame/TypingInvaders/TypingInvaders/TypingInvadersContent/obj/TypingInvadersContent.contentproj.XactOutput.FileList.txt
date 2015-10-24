@@ -1,3 +1,0 @@
-Content\Audio\SoundForTypingInvaders.xgs
-Content\Audio\Wave Bank.xwb
-Content\Audio\Sound Bank.xsb
