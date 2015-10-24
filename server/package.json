@@ -2,7 +2,7 @@
   "name": "portfolio-server",
   "version": "1.0.0",
   "description": "Web site for my portfolio",
-  "main": "serverApp.js",
+  "main": "server.app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
